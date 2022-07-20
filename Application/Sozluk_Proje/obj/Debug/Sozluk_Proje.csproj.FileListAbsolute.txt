@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\bin\Debug\Sozluk_Proje.exe.config
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\bin\Debug\Sozluk_Proje.exe
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\bin\Debug\Sozluk_Proje.pdb
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.Form1.resources
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.Properties.Resources.resources
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.exe
+C:\Users\HP\source\repos\Sozluk_Proje\Sozluk_Proje\obj\Debug\Sozluk_Proje.pdb
